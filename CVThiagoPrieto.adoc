@@ -1,0 +1,42 @@
+Thiago Prieto - Curriculum Vitae
+[user] Personal Information
+[user] Software Developer Junior.
+
+[home] Taubaté, SP, Brazil [map marker] | [phone] +55 12 9 8148-8052 | [at] | [github] | [instagram] | [linkedin]
+
+[suitcase] Professional Experience
+Hermanos Soluções em TI
+[group] Help Desk | [calendar] October, 2019 to September 2021
+
+System Support (TeamViewer, AnyDesk and Skype) and Front and Back end development using HTML, CSS and JavaScript.
+
+[graduation cap] Academic Background
+[university] Taubate College of Technology (Analysis and Systems Development) | [calendar] July, 2021
+
+[language] Language Skills
+Portuguese (native), English (Intermediate).
+
+[plug] Technical Skills
+Programming Languages
+
+Intermediate in JavaScript,beginner in Python. Competent in HTML and CSS.
+
+Other Hard and Soft Technologies
+
+Git, Amazon Web Service, Google Cloud, Agile Scrum Methodology.
+
+[plug] Technical Writing and Speaking
+[book] Complementary Courses
+[calendar] January - 2023 | Python Course: Apps for Android, iOS, Linx, Win, and Mac
+
+[calendar] November - 2022 | Spring Boot & MVC with Thymeleaf
+
+[calendar] November - 2022 | Spring Boot Expert: JPA, RESTFul API, Security, JWT
+
+[calendar] October - 2022 | Agile Management with Scrum
+
+[calendar] September - 2022 | Google Cloud Solutions II: Data and Machine Learning
+
+[calendar] August - 2022 | AWS Academy Graduate - AWS Academy Cloud Foundations
+
+[calendar] August - 2022 | Santander Bootcamp Mobile Developer
