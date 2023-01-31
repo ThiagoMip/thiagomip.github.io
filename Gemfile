@@ -9,3 +9,4 @@ gem 'asciidoctor-pdf', :git => 'https://github.com/asciidoctor/asciidoctor-pdf.g
 gem 'coderay'
 gem 'pygments.rb'
 gem 'thread_safe'
+gem "github-pages", group: :jekyll_plugins
